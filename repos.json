@@ -1,0 +1,10 @@
+{
+  "bots": {
+    "raid": [
+      "https://github.com/AerithServices/aerith-raid-bot"
+    ],
+    "nuke": [
+      "https://github.com/AerithServices/aerith-nuke-bot"
+    ]
+  }
+}
